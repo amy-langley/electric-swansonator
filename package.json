@@ -105,6 +105,7 @@
     "electron-debug": "^1.0.1",
     "font-awesome": "^4.6.3",
     "jsonpath": "^0.2.7",
+    "milligram": "^1.1.0",
     "postcss": "^5.1.2",
     "react": "^15.3.2",
     "react-desktop": "^0.2.14",
