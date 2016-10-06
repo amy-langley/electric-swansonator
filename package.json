@@ -100,11 +100,14 @@
     "webpack-validator": "^2.2.7"
   },
   "dependencies": {
+    "babyparse": "^0.4.6",
     "css-modules-require-hook": "^4.0.3",
     "electron-debug": "^1.0.1",
     "font-awesome": "^4.6.3",
+    "jsonpath": "^0.2.7",
     "postcss": "^5.1.2",
     "react": "^15.3.2",
+    "react-desktop": "^0.2.14",
     "react-dom": "^15.3.2",
     "react-redux": "^4.4.5",
     "react-router": "^2.8.0",
